@@ -4,6 +4,14 @@ Reat Native application using API with Rapid API
 
 <div style="margin-top: 30px;"></div>
 
+### **Provisional rendering**
+
+<div style="margin-top: 15px;"></div>
+
+<img src="assets/images/readme-image.jpg" />
+
+<div style="margin-top: 30px;"></div>
+
 Launch of the project
 
 ```sh
