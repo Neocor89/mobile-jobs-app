@@ -8,7 +8,7 @@ Reat Native application using API with Rapid API
 
 <div style="margin-top: 15px;"></div>
 
-<img src="assets/images/readme-image.jpg" />
+<img src="assets/images/readme-image.jpg" style="width:300px;" />
 
 <div style="margin-top: 30px;"></div>
 
