@@ -1,9 +1,7 @@
 import { View, Text, TouchableOpacity, Image } from 'react-native'
 import { checkImageUrl } from '../../../../ultis'
 
-import styles from './popularjobcard.style'
-
-// TODO -->  RESTART HERE 👇
+import styles from './popularjobcard.style';
 
 const PopularJobCard = ({ item, selectedJob, handleCardPress }) => {
   return (
