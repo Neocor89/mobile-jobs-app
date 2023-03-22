@@ -3,6 +3,7 @@ import { checkImageUrl } from '../../../../ultis'
 
 import styles from './popularjobcard.style'
 
+// TODO -->  RESTART HERE 👇
 
 const PopularJobCard = ({ item, selectedJob, handleCardPress }) => {
   return (
