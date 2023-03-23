@@ -1,4 +1,6 @@
-# **DEVJOBS APP**
+# <span style="color: #5486ff;">**DEVJOBS APP**</span>
+
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 Reat Native application using API with Rapid API
 
@@ -8,7 +10,7 @@ Reat Native application using API with Rapid API
 
 <div style="margin-top: 15px;"></div>
 
-<img src="assets/images/readme-image.jpg" style="width:300px;" />
+<img src="assets/images/readme-image.png" />
 
 <div style="margin-top: 30px;"></div>
 
