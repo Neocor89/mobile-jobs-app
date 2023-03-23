@@ -6,7 +6,7 @@ const COLORS = {
   gray: "#83829A",
   gray2: "#C1C0C8",
 
-  white: "#b5bbd4", // BEFORE --> #F3F4F8
+  white: "#F3F4F8", // BEFORE --> #F3F4F8
   lightWhite: "#FAFAFC", // BEFORE --> #bdbdd7
 };
 
