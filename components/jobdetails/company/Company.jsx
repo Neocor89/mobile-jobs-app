@@ -1,12 +1,21 @@
 import React from 'react'
-import { View, Text } from 'react-native'
+import { View, Text, Image } from 'react-native'
 
-import styles from './company.style'
+import styles from './company.style';
+import { icons } from '../../../constants';
+import { checkImageUrl } from '../../../ultis';
 
-const Company = () => {
+const Company = ({ companyLogo, jobTitle, companyName, location }) => {
   return (
-    <View>
-      <Text>Company</Text>
+    <View style={styles.container}>
+      <View style={styles.logoBox}></View>
+      <Image 
+        source={{
+          uri: checkImageUrl(companyLogo)
+          ? companyLogo
+          : 'https://res.cloudinary.com/dwoifuutn/image/upload/v1666282395/brand-logo-small_buu20k.png'
+        }}
+      />
     </View>
   )
 }
