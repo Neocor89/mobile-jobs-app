@@ -1,16 +1,27 @@
 # <span style="color: #5486ff;">**DEVJOBS APP**</span>
 
+#### A mobile application for job search mainly in the tech industry
+
+<div style="margin-top: 30px;"></div>
+
+### **Technologies Used** 🤖
+
+<div style="margin-top: 10px;"></div>
+
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/RapidAPI-4b81c0?style=for-the-badge&logo=api)
 
-Reat Native application using API with Rapid API
+<div style="margin-top: 20px;"></div>
+ 
+***
+
+<div style="margin-top: 20px;"></div>
+
+### **Provisional Rendering**
 
 <div style="margin-top: 30px;"></div>
 
-## **Provisional Rendering**
-
-<div style="margin-top: 30px;"></div>
-
-<img src="assets/images/iPhone-README-image.png" style="height: 600px"/>
+<img src="assets/images/iPhone-README-image.png" style="height: 500px"/>
 
 <div style="margin-top: 10px;"></div>
 
@@ -75,3 +86,21 @@ npm install -g expo-cli
 ```sh
 expo-cli start --tunnel
 ```
+
+<!-- Takes an item from data and renders it into the list. Typical usage:
+
+_renderItem = ({item}) => (
+  <TouchableOpacity onPress={() => this._onPress(item)}>
+    <Text>{item.title}</Text>
+  <TouchableOpacity/>
+);
+...
+<FlatList data={[{title: 'Title Text', key: 'item1'}]} renderItem={this._renderItem} />
+Provides additional metadata like index if you need it.
+
+AXIOS CONNECTION PROBLEM
+Request failed with status code 429
+at node_modules\axios\lib\core\settle.js:null in settle
+at node_modules\axios\lib\adapters\xhr.js:null in onloadend
+- ... 10 more stack frames from framework internals
+-->
