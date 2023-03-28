@@ -5,7 +5,7 @@ import styles from './tabs.style';
 import { SIZES } from '../../../constants';
 
 //TODO
-//! RESTART HERE 👇
+//+ RESTART HERE 👇
 
 const TabButton = ({ name, activeTab, onHandleSearchType }) => (
   <TouchableOpacity
