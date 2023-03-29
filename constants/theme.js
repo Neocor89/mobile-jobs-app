@@ -1,6 +1,6 @@
 const COLORS = {
-  primary: "#312651",
-  secondary: "#444262",
+  primary: "#312651", // BEFORE --> #312651 #284b63
+  secondary: "#444262", // BEFORE --> #444262 /f new #22577a
   tertiary: "#5487ff", // BEFORE --> #FF7754
 
   gray: "#83829A",
