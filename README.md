@@ -21,7 +21,17 @@
 
 <div style="margin-top: 30px;"></div>
 
+- **`Home Page`**
+
 <img src="assets/images/iPhone-README-image.png" style="height: 500px"/>
+
+<div style="margin-top: 40px;"></div>
+
+<!-- <div style="margin-top: 30px;"></div> -->
+
+- **`Job Detail Page`**
+
+<img src="assets/images/iphone-readme-job-details-image.png" style="height: 500px"/>
 
 <div style="margin-top: 10px;"></div>
 
