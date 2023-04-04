@@ -49,7 +49,8 @@ const JobDetails = () => {
         return (
           <JobAbout info={data[0].job_description ?? "No data provided"} />
         );
-      // RESTART HERE
+
+      // TODO RESTART HERE 👊
       case "Responsibilities":
         return (
           <Specifics
