@@ -6,7 +6,7 @@ const styles = StyleSheet.create({
   container: (selectedJob, item) => ({
     width: 250,
     padding: SIZES.xLarge,
-    backgroundColor: selectedJob === item.job_id ? COLORS.primary : "#FFF",
+    backgroundColor: selectedJob === item.job_id ? COLORS.tertiary : "#FFF",
     borderRadius: SIZES.medium,
     justifyContent: "space-between",
     ...SHADOWS.medium,
@@ -27,7 +27,7 @@ const styles = StyleSheet.create({
   companyName: {
     fontSize: SIZES.medium,
     fontFamily: FONT.regular,
-    color: "#B3AEC6",
+    color: "#3d3850",
     marginTop: SIZES.small / 1.5,
   },
   infoContainer: {
@@ -52,7 +52,7 @@ const styles = StyleSheet.create({
   location: {
     fontSize: SIZES.medium - 2,
     fontFamily: FONT.regular,
-    color: "#B3AEC6",
+    color: "#3d3850",
   },
 });
 
