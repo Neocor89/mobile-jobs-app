@@ -15,6 +15,22 @@
  
 ***
 
+<div style="margin-top: 15px;"></div>
+
+### **Important**
+
+<div style="margin-top: 10px;"></div>
+
+> This project has been realized with the [RapidAPI]("https://rapidapi.com/hub/") `JSearch` **_API_**, with a limited plan in API data calls.
+
+<div style="margin-top: 10px;"></div>
+
+> So it's normal that the whole data display is not always visible on the two sections of the homepage.
+
+<div style="margin-top: 20px;"></div>
+
+---
+
 <div style="margin-top: 20px;"></div>
 
 ### **Provisional Rendering**
@@ -47,10 +63,6 @@ Use [`expo-router`](https://expo.github.io/router) to build native navigation us
 
 ```sh
 npx create-react-native-app -e with-router
-
-OR
-
-npx create-react-native-app -t with-router
 ```
 
 #
@@ -96,21 +108,3 @@ npm install -g expo-cli
 ```sh
 expo-cli start --tunnel
 ```
-
-<!-- Takes an item from data and renders it into the list. Typical usage:
-
-_renderItem = ({item}) => (
-  <TouchableOpacity onPress={() => this._onPress(item)}>
-    <Text>{item.title}</Text>
-  <TouchableOpacity/>
-);
-...
-<FlatList data={[{title: 'Title Text', key: 'item1'}]} renderItem={this._renderItem} />
-Provides additional metadata like index if you need it.
-
-AXIOS CONNECTION PROBLEM
-Request failed with status code 429
-at node_modules\axios\lib\core\settle.js:null in settle
-at node_modules\axios\lib\adapters\xhr.js:null in onloadend
-- ... 10 more stack frames from framework internals
--->
