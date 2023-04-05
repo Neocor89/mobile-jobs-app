@@ -34,7 +34,11 @@ const JobDetails = () => {
   const [refreshing, setRefreshing] = useState(false);
   const [activeTab, setActiveTab] = useState(tabs[0]);
 
-  const onRefresh = () => {};
+  const onRefresh = useCallback(() => {
+    setRefreshing(true);
+    refetch();
+    setRefreshing(false);
+  }, []);
 
   const displayTabContent = () => {
     switch (activeTab) {
@@ -50,7 +54,6 @@ const JobDetails = () => {
           <JobAbout info={data[0].job_description ?? "No data provided"} />
         );
 
-      // TODO RESTART HERE 👊
       case "Responsibilities":
         return (
           <Specifics
