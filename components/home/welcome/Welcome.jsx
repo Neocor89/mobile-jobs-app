@@ -13,6 +13,9 @@ const Welcome = ({ searchTerm, setSearchTerm, handleClick }) => {
   const router = useRouter();
   const [activeJobType, setActiveJobType] = useState('Full-time');
 
+  // TODO 
+  //+ RESTART FOR THE CREATION SEARCH FOLDER 🗃️
+  
   return (
     <View>
       <View style={styles.container}>
@@ -25,7 +28,7 @@ const Welcome = ({ searchTerm, setSearchTerm, handleClick }) => {
         <TextInput 
           style={styles.searchInput}
           value={searchTerm}
-          onChange={(text) => setSearchTerm(text)}
+          onChangeText={(text) => setSearchTerm(text)}
           placeholder="What job are you looking for?"
         />
       </View>
