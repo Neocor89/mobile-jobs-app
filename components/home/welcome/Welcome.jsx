@@ -12,10 +12,8 @@ const jobTypes = ["Full-time", "Part-time", "Contractor"];
 const Welcome = ({ searchTerm, setSearchTerm, handleClick }) => {
   const router = useRouter();
   const [activeJobType, setActiveJobType] = useState('Full-time');
-
-  // TODO 
-  //+ RESTART FOR THE CREATION SEARCH FOLDER 🗃️
   
+  //+ git commit -m "remove all comments"
   return (
     <View>
       <View style={styles.container}>
