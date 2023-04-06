@@ -13,7 +13,6 @@ const Welcome = ({ searchTerm, setSearchTerm, handleClick }) => {
   const router = useRouter();
   const [activeJobType, setActiveJobType] = useState('Full-time');
   
-  //+ git commit -m "remove all comments"
   return (
     <View>
       <View style={styles.container}>
