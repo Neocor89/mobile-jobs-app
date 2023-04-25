@@ -24,9 +24,9 @@
 <div style="margin-top: 20px;"></div>
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-<img style="width: 90px; margin-bottom: 6px; margin-left: 10px;" src="https://axios-http.com/assets/logo.svg" />
-<img style="width: 90px; margin-bottom: 3px; margin-left: 12px;" src="https://rapidapi.com/static-assets/default/dark-logo-78e48dc1-ca3f-4d67-a6f5-74032f439c8b.svg" />
-<img style="width: 20px; height: 20px; margin-bottom: 3px; margin-left: 12px;" src="https://res.cloudinary.com/dwoifuutn/image/upload/v1680791231/expo-logo_i84gbk.png" />
+<img style="width: 90px; margin-bottom: 6px; margin-left: 5px;" src="https://axios-http.com/assets/logo.svg" />
+<img style="width: 90px; margin-left: 17px;" src="https://rapidapi.com/static-assets/default/dark-logo-78e48dc1-ca3f-4d67-a6f5-74032f439c8b.svg" />
+<img style="width: 20px; height: 20px; margin-left: 17px;" src="https://res.cloudinary.com/dwoifuutn/image/upload/v1680791231/expo-logo_i84gbk.png" />
 
 <div style="margin-top: 10px;"></div>
 
@@ -36,9 +36,22 @@
 
 - [Axios]("https://axios-http.com/") is a promise-based HTTP client compatible with node.js and browsers
 
-- [Expo]("https://expo.dev/") Expo is an open-source framework for apps that run natively on Android, iOS, and the web.
+- [Expo]("https://expo.dev/") is an open-source framework for apps that run natively on <a style="color: #3dda84; font-weight: bold;text-decoration: none;"  href="https://www.android.com/">Android</a>, <a style="color: #f63e54; font-weight: bold; text-decoration: none;" href="https://www.apple.com/fr/ios/ios-16/">iOS</a>, and the web.
 
-<div style="margin-top: 20px;"></div>
+<div style="margin-top: 25px;"></div>
+
+### **Discover the project 😎**
+
+---
+
+By clicking on this link you will be directed to the QR code of the project, scan it to enjoy the project live
+<a href="https://expo.dev/@bendevweb/jobs-mobile-app?serviceType=classic&distrribution=expo-go">
+<img src="https://res.cloudinary.com/dwoifuutn/image/upload/v1682453848/image-projects_kidtyy.png" style="width: 290px; display: block; margin: 20px auto 0 auto;" />
+</a>
+
+<!--
+https://res.cloudinary.com/dwoifuutn/image/upload/v1674552363/blog-banner_ovjyfb.png
+-->
 
 ### **Installation 🚀**
 
