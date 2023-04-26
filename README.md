@@ -23,10 +23,14 @@
 
 <div style="margin-top: 20px;"></div>
 
+<div>
+
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <img style="width: 90px; margin-bottom: 6px; margin-left: 5px;" src="https://axios-http.com/assets/logo.svg" />
 <img style="width: 90px; margin-left: 17px;" src="https://rapidapi.com/static-assets/default/dark-logo-78e48dc1-ca3f-4d67-a6f5-74032f439c8b.svg" />
 <img style="width: 20px; height: 20px; margin-left: 17px;" src="https://res.cloudinary.com/dwoifuutn/image/upload/v1680791231/expo-logo_i84gbk.png" />
+
+</div>
 
 <div style="margin-top: 10px;"></div>
 
@@ -42,16 +46,15 @@
 
 ### **Discover the project 😎**
 
----
+#
 
 By clicking on this link you will be directed to the QR code of the project, scan it to enjoy the project live
-<a href="https://expo.dev/@bendevweb/jobs-mobile-app?serviceType=classic&distrribution=expo-go">
-<img src="https://res.cloudinary.com/dwoifuutn/image/upload/v1682453848/image-projects_kidtyy.png" style="width: 290px; display: block; margin: 20px auto 0 auto;" />
-</a>
 
-<!--
-https://res.cloudinary.com/dwoifuutn/image/upload/v1674552363/blog-banner_ovjyfb.png
--->
+<div style="margin-top: 20px;"></div>
+
+<a href="https://expo.dev/@bendevweb/jobs-mobile-app?serviceType=classic&distrribution=expo-go">
+<img src="https://res.cloudinary.com/dwoifuutn/image/upload/v1682453848/image-projects_kidtyy.png" style="width: 290px;" />
+</a>
 
 ### **Installation 🚀**
 
