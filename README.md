@@ -46,9 +46,9 @@
 
 ### **Discover the project 😎**
 
-#
+---
 
-By clicking on this link you will be directed to the QR code of the project, scan it to enjoy the project live
+By clicking on the link below you will be redirected to the QR code of the project, scan it to enjoy the project live
 
 <div style="margin-top: 20px;"></div>
 
